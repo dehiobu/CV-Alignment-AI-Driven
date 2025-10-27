@@ -1,0 +1,54 @@
+core_skills:
+- power bi
+- dax
+- databricks
+- sql
+- python
+- excel
+- data modelling
+- data modeling
+- data lineage
+- etl
+- elt
+- data pipeline
+- dashboard
+- reporting
+- automation
+- governance
+- data quality
+- reconciliation
+- uat
+- validation
+- test cases
+- risk assessment
+- stakeholder management
+- confluence
+- jira
+financial_services:
+- asset management
+- portfolio management
+- risk modelling
+- risk modeling
+- market risk
+- credit risk
+- stress testing
+- regulatory reporting
+- fca
+- pra
+- emir
+- mifid
+- basel
+platforms_tools:
+- azure
+- aws
+- sharepoint
+- servicenow
+- oracle
+- mysql
+- sql server
+- git
+- github
+- tableau
+- snowflake
+- delta lake
+- spark

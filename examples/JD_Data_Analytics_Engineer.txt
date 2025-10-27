@@ -1,0 +1,1 @@
+We need Power BI dashboards, SQL-based automation, and Databricks pipelines for portfolio analytics and risk reporting in asset management.

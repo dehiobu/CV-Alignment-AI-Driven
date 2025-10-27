@@ -1,0 +1,36 @@
+# Bytecode & caches
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# OS / editor cruft
+*.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Python tooling
+.ruff_cache/
+.coverage
+coverage.xml
+
+# Build & distribution artefacts
+dist/
+build/
+*.egg-info/
+
+# Local data outputs
+report.csv
+*.log
+
+# Streamlit/automation temp files
+*.streamlit/
+.streamlit/
+
